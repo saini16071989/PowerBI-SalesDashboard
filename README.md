@@ -1,3 +1,4 @@
+![Sales Dashboard](https://github.com/user-attachments/assets/63064830-af35-4386-b5c7-5167d2d2b36f)
 # 📊 PowerBI-SalesDashboard
 
 A Power BI dashboard project analyzing sales and profit data using interactive visualizations and KPIs.
